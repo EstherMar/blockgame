@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "134110972656",
+    "firebase_url": "https://minecrafttetris-20995.firebaseio.com",
+    "project_id": "minecrafttetris-20995",
+    "storage_bucket": "minecrafttetris-20995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134110972656:android:914f6f8da2a6042cb81035",
+        "android_client_info": {
+          "package_name": "com.phoenix.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134110972656-866co4me9qbfbhb1fgql9v3d89l9u2sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41savcVcMp89E8FzkWXERNvZq8zCHEL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134110972656-866co4me9qbfbhb1fgql9v3d89l9u2sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8368920540183259~8685775935"
+    }
+  ],
+  "configuration_version": "1"
+}
