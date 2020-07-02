@@ -138,7 +138,7 @@ class MyAppState extends State<MyApp> {
     if (Platform.isIOS) {
       return null;
     } else if (Platform.isAndroid) {
-      return 'ca-app-pub-8368920540183259/7528946246';
+      return '';
     }
     return null;
   }
@@ -147,7 +147,7 @@ class MyAppState extends State<MyApp> {
     if (Platform.isIOS) {
       return null;
     } else if (Platform.isAndroid) {
-      return 'ca-app-pub-8368920540183259/7744568668';
+      return '';
     }
     return null;
   }
