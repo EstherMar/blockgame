@@ -22,7 +22,7 @@ String getAppId() {
   if (Platform.isIOS) {
     return null;
   } else if (Platform.isAndroid) {
-    return 'ca-app-pub-8368920540183259~8685775935';
+    return '';
   }
   return null;
 }
